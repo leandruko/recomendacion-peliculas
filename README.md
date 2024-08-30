@@ -66,6 +66,6 @@ Puedes ajustar varios parámetros en `app.py` para optimizar el rendimiento:
 
 ## Contacto
 
-[Leandro email] - [leasotompriv@gmail.com]
+[Email] - [leasotompriv@gmail.com]
 
 Enlace del proyecto: [https://github.com/leandruko/recomendacion-peliculas](https://github.com/leandruko/recomendacion-peliculas)
